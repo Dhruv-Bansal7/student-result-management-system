@@ -74,15 +74,16 @@ header {
     height: 5rem;
 }
 .submit {
-    width: 120px;
+    width: 120;
     height: 40px;
-    padding: 0.5rem;
-    margin-left: 50px;
+    padding: 0.8rem;
+    margin-left: 100px;
     border-radius: 10px;
     background-color: rgb(152, 242, 242);
     border: none;
-    font-size: 1rem;
-
+    font-size: 1.2rem;
+    font-weight: bolder;
+    outline: none;
 }
 .submit:hover {
     background-color: pink;

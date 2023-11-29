@@ -64,7 +64,7 @@ h3 {
 }
 .main-content a{
     text-decoration: none;
-    color: black;
+    color: rgb(201, 201, 201);
     text-shadow:  #ff0066 0px 0px 1px,   #ff0066 0px 0px 1px,   #ff0066 0px 0px 1px;
 }
 .main-content a:hover{

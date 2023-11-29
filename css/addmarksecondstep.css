@@ -97,13 +97,19 @@ h4{
     margin-left: 410px;
 }
 .submit {
-    width: 100px;
+    width: 80px;
+    text-align: center;
+    
     height: 40px;
     background-color: rgb(189, 189, 189);
     margin-top: 10px;
+    font-size: 1.1rem;
 }
 .submit:hover {
     background-color: pink;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     font-weight: 700;
+}
+.submit a {
+    text-decoration: none;
 }

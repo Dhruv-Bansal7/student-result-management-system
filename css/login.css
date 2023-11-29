@@ -102,8 +102,11 @@ header {
     background-color: rgb(199, 199, 199);
     border: 1px solid black;
     color: black;
-    font-size: 1rem;
+    margin-top: 30px;
+    font-size: 1.15rem;
     padding-left: 1.5rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
     padding-right: 1.5rem;
 }
 .submit:hover {
