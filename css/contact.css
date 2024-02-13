@@ -73,6 +73,15 @@ header {
     width: 500px;
     height: 70px;
 }
+
+input {
+    padding: 10px;
+}
+textarea {
+    padding: 10px;
+    font-weight: 500;
+    font-size: 14px;
+}
 .submit {
     width: 120px;
     height: 40px;
