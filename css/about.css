@@ -15,13 +15,13 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
 }
-/* .clear::after {
+.clear::after {
     content: " ";
     visibility: visible;
     display: block;
     height: 9px;
     clear: both;
-} */
+}
 .row{
     max-width: 1180px;
     margin: 0 auto;
