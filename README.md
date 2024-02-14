@@ -24,6 +24,8 @@ This guide outlines the steps to fork a repository, clone it into the root direc
      - For macOS:
        ```bash
        sudo apachectl start
+       ```
+       ```
        brew services start httpd
        ```
 
